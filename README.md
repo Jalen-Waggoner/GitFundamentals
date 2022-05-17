@@ -22,5 +22,5 @@ Here is a growing collections of resources and helpful commands to know when wor
 - [git Branches](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
 
 
-Oh and if you're interested here is a link to some of the music that I make. [Hope you enjoy!](https://www.youtube.com/watch?v=fcZXfoB2f70)
+Oh and if you're interested here is a link to a short clip of the music that I like to make. [Hope you enjoy!](https://www.youtube.com/watch?v=fcZXfoB2f70)
 
